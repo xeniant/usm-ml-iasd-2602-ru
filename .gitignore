@@ -1,0 +1,23 @@
+# Python / virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Jupyter autosave copies
+.ipynb_checkpoints/
+
+# Editor settings
+.vscode/
+
+# Data is not committed
+*.csv
+data/
+datasets/
+
+# Downloaded archives (their contents are already unpacked)
+*.zip
+
+# Local working copies, only original/ and solution/ are sent
+test/
