@@ -1,6 +1,6 @@
 # Machine Learning: labs
 
-Laboratory works (labs) for the Machine Learning course (semester 1), USM, group IASD 2602 R, 2026-2027.
+Laboratory works (labs) for the Machine Learning course (semester 1), USM, group IASD 2602 RU, 2026-2027.
 
 ## Structure
 
